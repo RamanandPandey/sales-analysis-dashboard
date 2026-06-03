@@ -20,4 +20,4 @@ This Power BI dashboard provides insights into sales performance, profitability,
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_preview.png.png)
